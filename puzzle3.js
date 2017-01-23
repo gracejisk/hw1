@@ -13,7 +13,7 @@
 
 down();
 down();
-var c=getColor(1);
+var c=getColor();
 down();
 down();
 down();
